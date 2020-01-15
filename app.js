@@ -52,7 +52,7 @@ console.log(cx5);
 console.log(cx5.myBrand());
 
 console.log(cx5.madeIn());
-// console.log(cx5.carStats());
-// console.log(civic);
-// console.log(civic.carStats());
-// console.log(Car.totalDoors(cx5, civic));
+console.log(cx5.carStats());
+console.log(civic);
+console.log(civic.carStats());
+console.log(Car.totalDoors(cx5, civic));
