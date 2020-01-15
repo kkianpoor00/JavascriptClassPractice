@@ -45,7 +45,7 @@ class SUV extends Car {
   }
 }
 
-const cx5 = new SUV( 4, 'V6', 'grey', 'mazda');
+const cx5 = new SUV( 4, 'V6', 'grey', 'yaris');
 const civic = new Car(3, 'V4', 'blue');
 
 console.log(cx5);
